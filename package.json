@@ -4,7 +4,7 @@
   "description": "Hextris ==========",
   "main": "a.js",
   "scripts": {
-    "deploy": "gh-pages -d hextris-gh-pages "
+    "deploy": "gh-pages -d dist "
   },
   "keywords": [],
   "author": "",
