@@ -1,0 +1,16 @@
+{
+  "name": "hextris-gh-pages",
+  "version": "1.0.0",
+  "description": "Hextris ==========",
+  "main": "a.js",
+  "scripts": {
+    "deploy": "gh-pages -d hextris-gh-pages "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ZeeshanZafar557.github.io/myfirstgithubpage",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
